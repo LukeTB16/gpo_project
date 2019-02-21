@@ -11,7 +11,7 @@ del rispetto delle tempistiche.
 I vantaggi del CPM sono:
 
 - identifica i compiti più importanti
-- consente una comprensione immediata dei rischi legati alle tempistichea
+- consente una comprensione immediata dei rischi legati alle tempistiche
 - aiuta a ridurre i tempi
 - riduce l’impegno di project management
 - consente di confrontare il pianificato con l’attuale
